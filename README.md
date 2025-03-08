@@ -8,6 +8,7 @@ QR Code Generator is a powerful and flexible Joomla module that allows you to ge
 
 Includes: M
 Compatibility: J4 J5
+In 2 languages: French and English
 
 🚀 Key Features:
 ✔ Dynamic QR Code generation for URLs, phone numbers, SMS, text, email, YouTube, and Google Maps.
