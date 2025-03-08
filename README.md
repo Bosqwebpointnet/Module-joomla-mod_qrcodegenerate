@@ -4,7 +4,7 @@
 QR Code Generator - The Ultimate Joomla QR Code Module
 QR Code Generator is a powerful and flexible Joomla module that allows you to generate dynamic QR Codes directly from your website. This 100% responsive and easy-to-configure module offers advanced features.
 
-![Module Overview](Module QR code generator 1.png)
+![Module Overview](Module%20QR%20code%20generator%201.png)
 
 Includes: M
 Compatibility: J4 J5
