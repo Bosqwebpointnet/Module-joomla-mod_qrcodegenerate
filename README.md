@@ -1,0 +1,1 @@
+# Module-joomla-mod_qrcodegenerate
